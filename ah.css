@@ -1,0 +1,18 @@
+.jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 3rem;
+    background-color: #808080;
+    
+}
+
+#Gallery {
+    color: white;
+    background-color: #808080;
+    padding-bottom: 2rem;
+}
+
+#footer {
+    background-color: #808080;
+    padding-bottom: 2rem;
+    color: white;
+}
